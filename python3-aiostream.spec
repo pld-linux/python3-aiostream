@@ -1,7 +1,7 @@
 Summary:	Generator-based operators for asynchronous iteration
 Name:		python3-aiostream
 Version:	0.4.5
-Release:	2
+Release:	3
 License:	GPL v3+
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/a/aiostream/aiostream-%{version}.tar.gz
